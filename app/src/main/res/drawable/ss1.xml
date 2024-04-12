@@ -1,0 +1,7 @@
+<vector android:autoMirrored="true" android:height="16877.637dp"
+    android:viewportHeight="800" android:viewportWidth="474"
+    android:width="10000dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#050404" android:name="Ellipse 1"
+        android:pathData="m203 314c9.9 0 18 9.4 18 21c0 11.6 -8.1 21 -18 21c-9.9 0 -18 -9.4 -18 -21c0 -11.6 8.1 -21 18 -21z"
+        android:strokeColor="#050404" android:strokeMiterLimit="100" android:strokeWidth="1"/>
+</vector>
